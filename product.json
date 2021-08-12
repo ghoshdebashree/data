@@ -1,1 +1,32 @@
+[
+  {
+    "requestDate": "04-09-2021",
+    "brn": "",
+    "storeCode": "BOMTDD",
+    "items": {
+      "pickedUpDate": "04-09-8797",
+      "docketNo": "348034980"
+    }
 
+  },
+  {
+    "requestDate": "04-09-2021",
+    "brn": "",
+    "storeCode": "BOMTDD",
+    "items": {
+      "pickedUpDate": "04-09-8797",
+      "docketNo": "348034980"
+    }
+
+  },
+  {
+    "requestDate": "04-09-2021",
+    "brn": "",
+    "storeCode": "BOMTDD",
+    "items": {
+      "pickedUpDate": "04-09-8797",
+      "docketNo": "348034980"
+    }
+
+  }
+]
