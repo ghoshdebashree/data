@@ -1,0 +1,89 @@
+{ "rows":
+  [
+  {
+  "reqdate":"2019-08-03" ,
+  "brn": "C56424227",
+  "strcode": "BOMTDD" ,
+  "add": "Level 1, Vibgyor Towers, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098",
+  "prdtype": "SECURE" ,
+  "doc": "1/1",
+  "action": "X",
+  "details":{
+      "PICKED UP":"",
+      "DOCKET NO.":"12345",
+      "SERVICE-TYPE":"VAL",
+      "GROSS-WEIGHT":"4",
+      "NET VALUE":"70000.0",
+      "TO CITY":"DELHI"
+    }
+  },
+  {
+    "reqdate":"2018-08-03" ,
+    "brn": "C29393956",
+    "strcode": "BOMWSS" ,
+    "add": "BLOCK, No 5, AC 720, 5th A Cross Rd, HRBR Layout, Bengaluru, Karnataka 560043",
+    "prdtype": "SECURE" ,
+    "doc": "1/1",
+    "action": "X",
+    "details":{
+      "PICKED UP":"",
+      "DOCKET NO.":"12345",
+      "SERVICE-TYPE":"VAL",
+      "GROSS-WEIGHT":"3",
+      "NET VALUE":"70800.0",
+      "TO CITY":"KOLKATA"
+    }
+  },
+{
+    "reqdate":"2018-03-01" ,
+    "brn": "C29323956",
+    "strcode": "BOMSSS" ,
+    "add": "Level 8, Vibgyor Towers, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098",
+    "prdtype": "SECURE" ,
+    "doc": "1/1",
+    "action": "X",
+    "details":{
+      "PICKED UP":"",
+      "DOCKET NO.":"12345",
+      "SERVICE-TYPE":"VAL",
+      "GROSS-WEIGHT":"2",
+      "NET VALUE":"70200.0",
+      "TO CITY":"BANGALORE"
+    }
+  },
+{
+    "reqdate":"2017-08-03" ,
+    "brn":"C29393956",
+    "strcode": "KAGGGS" ,
+    "add": "Ujalaiwadi, Kolhapur, Maharashtra 416013",
+    "prdtype": "SECURE" ,
+    "doc": "1/1",
+    "action": "X",
+    "details":{
+      "PICKED UP":"",
+      "DOCKET NO.":"12345",
+      "SERVICE-TYPE":"VAL",
+      "GROSS-WEIGHT":"1",
+      "NET VALUE":"70020.0",
+      "TO CITY":"RANCHI"
+    }
+  },
+{
+    "reqdate":"2020-05-03" ,
+    "brn": "C29393556",
+    "strcode": "FJFJJDJ" ,
+    "add": "1, Govind Chandra Dhar Lane, 1st Floor, Kolkata, West Bengal 700001",
+    "prdtype": "SECURE" ,
+    "doc": "1/1",
+    "action": "X",
+    "details":{
+      "PICKED UP":"",
+      "DOCKET NO.":"12345",
+      "SERVICE-TYPE":"VAL",
+      "GROSS-WEIGHT":"5",
+      "NET VALUE":"70099.0",
+      "TO CITY":"PATNA"
+    }
+  }
+ ]
+}
